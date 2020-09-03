@@ -1,4 +1,4 @@
-package com.py7hon.jianzhi;
+package com.py7hon.jianzhi.jz11_20;
 
 import com.py7hon.jianzhi.common.ListNode;
 import org.junit.jupiter.api.Assertions;

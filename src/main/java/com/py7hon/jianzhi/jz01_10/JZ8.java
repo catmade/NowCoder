@@ -1,4 +1,4 @@
-package com.py7hon.jianzhi;
+package com.py7hon.jianzhi.jz01_10;
 
 import java.util.HashMap;
 import java.util.Map;

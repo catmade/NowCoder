@@ -1,4 +1,4 @@
-package com.py7hon.jianzhi;
+package com.py7hon.jianzhi.jz01_10;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
